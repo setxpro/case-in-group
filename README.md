@@ -1,6 +1,27 @@
 
 # Case in Group
 
+---
+
+## Lógica de Programação
+### O desafio requer que o candidato tenha as seguintes habilidades interpessoais.
+
+- **Resolução de problemas**: A capacidade de resolver problemas complexos é uma das principais habilidades de um programador.
+- **Otimização de algoritmos**: Os exercícios de lógica de programação muitas vezes envolvem encontrar a solução mais eficiente para um determinado problema.
+- **Desenvolvimento de habilidades de resolução de bugs**: Ao resolver exercícios de lógica de programação, é comum encontrar bugs e erros em seu código.
+- **Pensamento lógico estruturado**: A lógica de programação é baseada em um pensamento lógico e estruturado, que é essencial para desenvolver algoritmos e programar eficientemente.
+- **Melhoria contínua**: A resolução regular de exercícios de lógica de programação permite que você se desafie constantemente e melhore suas habilidades.
+
+## Linguagens desejáveis para a realização
+
+- Javascript
+- Java
+- C#
+- C
+- C++
+- GO
+
+
 1.  Encontre o maior número em uma lista: Desenvolva um algoritmo para encontrar o maior número em uma lista de valores. 
 - Entrada: [5, 2, 9, 1, 6, 4]
 - Saída: [9]
